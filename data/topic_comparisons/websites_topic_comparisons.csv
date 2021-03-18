@@ -1,0 +1,521 @@
+topic,aspect,difference,delta,mean,mean_others,diff_mean,med,med_others,diff_med,websites,post_type
+Movement,n_responses,,,,,,,,,unity/ue4,questions
+Movement,len_text,,,,,,,,,unity/ue4,questions
+Movement,is_answered,,,,,,,,,unity/ue4,questions
+Movement,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Movement,has_code,greater,large,0.5568902632413575,0.06731583403895004,-0.48957442920240746,1.0,0.0,-1.0,unity/ue4,questions
+Game engines,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Game engines,len_text,less,negligible,,,,,,,unity/ue4,questions
+Game engines,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Game engines,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Game engines,has_code,greater,negligible,,,,,,,unity/ue4,questions
+Game objects,n_responses,greater,negligible,,,,,,,unity/ue4,questions
+Game objects,len_text,,,,,,,,,unity/ue4,questions
+Game objects,is_answered,,,,,,,,,unity/ue4,questions
+Game objects,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Game objects,has_code,greater,medium,0.5625394819962097,0.14487632508833923,-0.4176631569078705,1.0,0.0,-1.0,unity/ue4,questions
+GUI,n_responses,,,,,,,,,unity/ue4,questions
+GUI,len_text,,,,,,,,,unity/ue4,questions
+GUI,is_answered,,,,,,,,,unity/ue4,questions
+GUI,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+GUI,has_code,greater,medium,0.469826832254679,0.055798542080848244,-0.4140282901738308,0.0,0.0,0.0,unity/ue4,questions
+File management,n_responses,,,,,,,,,unity/ue4,questions
+File management,len_text,,,,,,,,,unity/ue4,questions
+File management,is_answered,,,,,,,,,unity/ue4,questions
+File management,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+File management,has_code,greater,negligible,,,,,,,unity/ue4,questions
+Character animation,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Character animation,len_text,,,,,,,,,unity/ue4,questions
+Character animation,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Character animation,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Character animation,has_code,greater,small,0.34364599446866356,0.047552707346521776,-0.2960932871221418,0.0,0.0,0.0,unity/ue4,questions
+Collisions,n_responses,,,,,,,,,unity/ue4,questions
+Collisions,len_text,,,,,,,,,unity/ue4,questions
+Collisions,is_answered,,,,,,,,,unity/ue4,questions
+Collisions,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Collisions,has_code,greater,medium,0.4304761046799694,0.05913978494623656,-0.3713363197337328,0.0,0.0,0.0,unity/ue4,questions
+FX,n_responses,,,,,,,,,unity/ue4,questions
+FX,len_text,,,,,,,,,unity/ue4,questions
+FX,is_answered,,,,,,,,,unity/ue4,questions
+FX,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+FX,has_code,greater,small,0.3995403179467535,0.07171314741035857,-0.32782717053639493,0.0,0.0,0.0,unity/ue4,questions
+Bug reports,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Bug reports,len_text,,,,,,,,,unity/ue4,questions
+Bug reports,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Bug reports,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Bug reports,has_code,greater,small,0.3704879856038954,0.09002825999192572,-0.2804597256119697,0.0,0.0,0.0,unity/ue4,questions
+Game mechanics,n_responses,greater,negligible,,,,,,,unity/ue4,questions
+Game mechanics,len_text,,,,,,,,,unity/ue4,questions
+Game mechanics,is_answered,,,,,,,,,unity/ue4,questions
+Game mechanics,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Game mechanics,has_code,greater,medium,0.4874234118026443,0.04963144963144963,-0.4377919621711947,0.0,0.0,0.0,unity/ue4,questions
+Runtime,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Runtime,len_text,greater,negligible,,,,,,,unity/ue4,questions
+Runtime,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Runtime,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Runtime,has_code,greater,small,0.2245885769603098,0.0766743648960739,-0.14791421206423588,0.0,0.0,0.0,unity/ue4,questions
+Meshes,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Meshes,len_text,greater,negligible,,,,,,,unity/ue4,questions
+Meshes,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Meshes,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Meshes,has_code,greater,small,0.24813029749044374,0.050397877984084884,-0.19773241950635886,0.0,0.0,0.0,unity/ue4,questions
+General errors,n_responses,,,,,,,,,unity/ue4,questions
+General errors,len_text,,,,,,,,,unity/ue4,questions
+General errors,is_answered,,,,,,,,,unity/ue4,questions
+General errors,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+General errors,has_code,greater,small,0.6264333845608228,0.38615847542627885,-0.2402749091345439,1.0,0.0,-1.0,unity/ue4,questions
+Event handling,n_responses,,,,,,,,,unity/ue4,questions
+Event handling,len_text,,,,,,,,,unity/ue4,questions
+Event handling,is_answered,,,,,,,,,unity/ue4,questions
+Event handling,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Event handling,has_code,greater,medium,0.5234030026493965,0.1248303934871099,-0.39857260916228665,1.0,0.0,-1.0,unity/ue4,questions
+General programming,n_responses,less,negligible,,,,,,,unity/ue4,questions
+General programming,len_text,,,,,,,,,unity/ue4,questions
+General programming,is_answered,less,negligible,,,,,,,unity/ue4,questions
+General programming,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+General programming,has_code,greater,large,0.8418302723242559,0.23170731707317074,-0.6101229552510852,1.0,0.0,-1.0,unity/ue4,questions
+Game loop,n_responses,,,,,,,,,unity/ue4,questions
+Game loop,len_text,,,,,,,,,unity/ue4,questions
+Game loop,is_answered,,,,,,,,,unity/ue4,questions
+Game loop,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Game loop,has_code,greater,large,0.559486067078258,0.08389585342333655,-0.47559021365492143,1.0,0.0,-1.0,unity/ue4,questions
+Positioning,n_responses,,,,,,,,,unity/ue4,questions
+Positioning,len_text,greater,negligible,,,,,,,unity/ue4,questions
+Positioning,is_answered,,,,,,,,,unity/ue4,questions
+Positioning,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Positioning,has_code,greater,large,0.5915368467572644,0.0893970893970894,-0.5021397573601749,1.0,0.0,-1.0,unity/ue4,questions
+Camera and display,n_responses,,,,,,,,,unity/ue4,questions
+Camera and display,len_text,greater,negligible,,,,,,,unity/ue4,questions
+Camera and display,is_answered,,,,,,,,,unity/ue4,questions
+Camera and display,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Camera and display,has_code,greater,small,0.3079031953110229,0.0558059669456965,-0.2520972283653264,0.0,0.0,0.0,unity/ue4,questions
+Materials,n_responses,,,,,,,,,unity/ue4,questions
+Materials,len_text,greater,negligible,,,,,,,unity/ue4,questions
+Materials,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Materials,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Materials,has_code,greater,small,0.304743802961907,0.04719004719004719,-0.2575537557718598,0.0,0.0,0.0,unity/ue4,questions
+Rendering,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Rendering,len_text,greater,negligible,,,,,,,unity/ue4,questions
+Rendering,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Rendering,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Rendering,has_code,greater,small,0.24626956205265074,0.04582763337893297,-0.20044192867371777,0.0,0.0,0.0,unity/ue4,questions
+External tools,n_responses,less,negligible,,,,,,,unity/ue4,questions
+External tools,len_text,greater,negligible,,,,,,,unity/ue4,questions
+External tools,is_answered,less,negligible,,,,,,,unity/ue4,questions
+External tools,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+External tools,has_code,greater,negligible,,,,,,,unity/ue4,questions
+Lighting,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Lighting,len_text,,,,,,,,,unity/ue4,questions
+Lighting,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Lighting,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Lighting,has_code,greater,small,0.2127935923801277,0.022881996974281393,-0.18991159540584632,0.0,0.0,0.0,unity/ue4,questions
+Networking,n_responses,less,negligible,,,,,,,unity/ue4,questions
+Networking,len_text,less,negligible,,,,,,,unity/ue4,questions
+Networking,is_answered,less,negligible,,,,,,,unity/ue4,questions
+Networking,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Networking,has_code,greater,small,0.39461493920092644,0.11495409382467614,-0.2796608453762503,0.0,0.0,0.0,unity/ue4,questions
+3D modeling,n_responses,less,negligible,,,,,,,unity/ue4,questions
+3D modeling,len_text,,,,,,,,,unity/ue4,questions
+3D modeling,is_answered,less,negligible,,,,,,,unity/ue4,questions
+3D modeling,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+3D modeling,has_code,greater,negligible,,,,,,,unity/ue4,questions
+Object Oriented Programming,n_responses,greater,negligible,,,,,,,unity/ue4,questions
+Object Oriented Programming,len_text,less,negligible,,,,,,,unity/ue4,questions
+Object Oriented Programming,is_answered,,,,,,,,,unity/ue4,questions
+Object Oriented Programming,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Object Oriented Programming,has_code,greater,small,0.6299658369936555,0.3300999412110523,-0.2998658957826032,1.0,0.0,-1.0,unity/ue4,questions
+Geometry,n_responses,,,,,,,,,unity/ue4,questions
+Geometry,len_text,,,,,,,,,unity/ue4,questions
+Geometry,is_answered,,,,,,,,,unity/ue4,questions
+Geometry,is_resolved,,,,,,,,,unity/ue4,questions
+Geometry,has_code,greater,medium,0.4390288426433005,0.05337781484570475,-0.38565102779759575,0.0,0.0,0.0,unity/ue4,questions
+Programming errors,n_responses,,,,,,,,,unity/ue4,questions
+Programming errors,len_text,,,,,,,,,unity/ue4,questions
+Programming errors,is_answered,,,,,,,,,unity/ue4,questions
+Programming errors,is_resolved,less,negligible,,,,,,,unity/ue4,questions
+Programming errors,has_code,greater,small,0.46434991012582383,0.1421232876712329,-0.32222662245459094,0.0,0.0,0.0,unity/ue4,questions
+Game engines,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Game engines,len_text,less,negligible,,,,,,,unity/ue4,answers
+Game engines,has_code,greater,negligible,,,,,,,unity/ue4,answers
+Meshes,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Meshes,len_text,greater,negligible,,,,,,,unity/ue4,answers
+Meshes,has_code,greater,small,0.2429509463113171,0.04994340690435767,-0.19300753940695944,0.0,0.0,0.0,unity/ue4,answers
+Game objects,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Game objects,len_text,less,negligible,,,,,,,unity/ue4,answers
+Game objects,has_code,greater,medium,0.494318833926317,0.13102847181871005,-0.3632903621076069,0.0,0.0,0.0,unity/ue4,answers
+Lighting,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Lighting,len_text,less,negligible,,,,,,,unity/ue4,answers
+Lighting,has_code,greater,small,0.1873818119305484,0.021745518660005878,-0.16563629327054252,0.0,0.0,0.0,unity/ue4,answers
+Materials,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Materials,len_text,less,negligible,,,,,,,unity/ue4,answers
+Materials,has_code,greater,small,0.2374079528718704,0.03163815326927584,-0.20576979960259456,0.0,0.0,0.0,unity/ue4,answers
+Movement,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Movement,len_text,,,,,,,,,unity/ue4,answers
+Movement,has_code,greater,medium,0.49498643387991037,0.07492245287520878,-0.4200639810047016,0.0,0.0,0.0,unity/ue4,answers
+Runtime,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Runtime,len_text,less,negligible,,,,,,,unity/ue4,answers
+Runtime,has_code,greater,negligible,,,,,,,unity/ue4,answers
+Game loop,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Game loop,len_text,,,,,,,,,unity/ue4,answers
+Game loop,has_code,greater,medium,0.493573264781491,0.07538035961272475,-0.4181929051687662,0.0,0.0,0.0,unity/ue4,answers
+Object Oriented Programming,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Object Oriented Programming,len_text,less,negligible,,,,,,,unity/ue4,answers
+Object Oriented Programming,has_code,greater,small,0.5611015490533563,0.26865244164399255,-0.29244910740936375,1.0,0.0,-1.0,unity/ue4,answers
+GUI,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+GUI,len_text,less,negligible,,,,,,,unity/ue4,answers
+GUI,has_code,greater,medium,0.40844855244060807,0.0450181352677619,-0.3634304171728462,0.0,0.0,0.0,unity/ue4,answers
+Collisions,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Collisions,len_text,,,,,,,,,unity/ue4,answers
+Collisions,has_code,greater,small,0.2933504134156283,0.045795601552393275,-0.24755481186323502,0.0,0.0,0.0,unity/ue4,answers
+Bug reports,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Bug reports,len_text,less,negligible,,,,,,,unity/ue4,answers
+Bug reports,has_code,greater,small,0.3501811434125652,0.056753688989784334,-0.29342745442278084,0.0,0.0,0.0,unity/ue4,answers
+Event handling,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Event handling,len_text,less,negligible,,,,,,,unity/ue4,answers
+Event handling,has_code,greater,medium,0.45268089536699635,0.08534946236559139,-0.36733143300140497,0.0,0.0,0.0,unity/ue4,answers
+Camera and display,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Camera and display,len_text,,,,,,,,,unity/ue4,answers
+Camera and display,has_code,greater,small,0.31631205673758866,0.06511175898931001,-0.2512002977482787,0.0,0.0,0.0,unity/ue4,answers
+General errors,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+General errors,len_text,,,,,,,,,unity/ue4,answers
+General errors,has_code,greater,small,0.41677148846960166,0.23434704830053668,-0.18242444016906498,0.0,0.0,0.0,unity/ue4,answers
+General programming,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+General programming,len_text,,,,,,,,,unity/ue4,answers
+General programming,has_code,greater,medium,0.621676891615542,0.19360902255639098,-0.42806786905915095,1.0,0.0,-1.0,unity/ue4,answers
+FX,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+FX,len_text,less,negligible,,,,,,,unity/ue4,answers
+FX,has_code,greater,small,0.3789118921521425,0.07488986784140969,-0.3040220243107328,0.0,0.0,0.0,unity/ue4,answers
+Positioning,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Positioning,len_text,less,negligible,,,,,,,unity/ue4,answers
+Positioning,has_code,greater,medium,0.4564915929970532,0.08529092880375859,-0.3712006641932946,0.0,0.0,0.0,unity/ue4,answers
+Networking,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Networking,len_text,less,negligible,,,,,,,unity/ue4,answers
+Networking,has_code,greater,small,0.2892122568910032,0.08396268325188805,-0.20524957363911517,0.0,0.0,0.0,unity/ue4,answers
+Character animation,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Character animation,len_text,less,negligible,,,,,,,unity/ue4,answers
+Character animation,has_code,greater,small,0.2978723404255319,0.04939945757458349,-0.2484728828509484,0.0,0.0,0.0,unity/ue4,answers
+File management,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+File management,len_text,less,negligible,,,,,,,unity/ue4,answers
+File management,has_code,greater,negligible,,,,,,,unity/ue4,answers
+Geometry,is_accepted,,,,,,,,,unity/ue4,answers
+Geometry,len_text,,,,,,,,,unity/ue4,answers
+Geometry,has_code,greater,medium,0.42794612794612796,0.08647798742138364,-0.34146814052474433,0.0,0.0,0.0,unity/ue4,answers
+3D modeling,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+3D modeling,len_text,less,negligible,,,,,,,unity/ue4,answers
+3D modeling,has_code,greater,negligible,,,,,,,unity/ue4,answers
+Rendering,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Rendering,len_text,greater,negligible,,,,,,,unity/ue4,answers
+Rendering,has_code,greater,small,0.249396621078037,0.033218553777597734,-0.21617806730043926,0.0,0.0,0.0,unity/ue4,answers
+Game mechanics,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Game mechanics,len_text,,,,,,,,,unity/ue4,answers
+Game mechanics,has_code,greater,medium,0.4373611513570946,0.04529494382022472,-0.3920662075368699,0.0,0.0,0.0,unity/ue4,answers
+External tools,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+External tools,len_text,less,negligible,,,,,,,unity/ue4,answers
+External tools,has_code,greater,negligible,,,,,,,unity/ue4,answers
+Programming errors,is_accepted,less,negligible,,,,,,,unity/ue4,answers
+Programming errors,len_text,,,,,,,,,unity/ue4,answers
+Programming errors,has_code,greater,small,0.4815205913410771,0.297244094488189,-0.1842764968528881,0.0,0.0,0.0,unity/ue4,answers
+Bug reports,len_text,less,negligible,,,,,,,unity/ue4,comments
+Bug reports,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Event handling,len_text,less,negligible,,,,,,,unity/ue4,comments
+Event handling,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Meshes,len_text,less,negligible,,,,,,,unity/ue4,comments
+Meshes,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Game loop,len_text,,,,,,,,,unity/ue4,comments
+Game loop,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Game engines,len_text,less,negligible,,,,,,,unity/ue4,comments
+Game engines,has_code,greater,negligible,,,,,,,unity/ue4,comments
+3D modeling,len_text,less,negligible,,,,,,,unity/ue4,comments
+3D modeling,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Networking,len_text,less,negligible,,,,,,,unity/ue4,comments
+Networking,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Game mechanics,len_text,less,negligible,,,,,,,unity/ue4,comments
+Game mechanics,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Movement,len_text,less,negligible,,,,,,,unity/ue4,comments
+Movement,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Collisions,len_text,less,negligible,,,,,,,unity/ue4,comments
+Collisions,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Character animation,len_text,less,negligible,,,,,,,unity/ue4,comments
+Character animation,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Materials,len_text,,,,,,,,,unity/ue4,comments
+Materials,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Game objects,len_text,less,negligible,,,,,,,unity/ue4,comments
+Game objects,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Programming errors,len_text,,,,,,,,,unity/ue4,comments
+Programming errors,has_code,,,,,,,,,unity/ue4,comments
+Positioning,len_text,less,negligible,,,,,,,unity/ue4,comments
+Positioning,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Camera and display,len_text,less,negligible,,,,,,,unity/ue4,comments
+Camera and display,has_code,greater,negligible,,,,,,,unity/ue4,comments
+GUI,len_text,less,negligible,,,,,,,unity/ue4,comments
+GUI,has_code,greater,negligible,,,,,,,unity/ue4,comments
+General errors,len_text,less,negligible,,,,,,,unity/ue4,comments
+General errors,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Object Oriented Programming,len_text,less,negligible,,,,,,,unity/ue4,comments
+Object Oriented Programming,has_code,greater,negligible,,,,,,,unity/ue4,comments
+FX,len_text,less,negligible,,,,,,,unity/ue4,comments
+FX,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Rendering,len_text,greater,negligible,,,,,,,unity/ue4,comments
+Rendering,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Lighting,len_text,less,negligible,,,,,,,unity/ue4,comments
+Lighting,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Runtime,len_text,less,negligible,,,,,,,unity/ue4,comments
+Runtime,has_code,greater,negligible,,,,,,,unity/ue4,comments
+General programming,len_text,,,,,,,,,unity/ue4,comments
+General programming,has_code,greater,small,0.3344346549192364,0.09213250517598344,-0.24230214974325298,0.0,0.0,0.0,unity/ue4,comments
+External tools,len_text,less,negligible,,,,,,,unity/ue4,comments
+External tools,has_code,greater,negligible,,,,,,,unity/ue4,comments
+File management,len_text,less,negligible,,,,,,,unity/ue4,comments
+File management,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Geometry,len_text,,,,,,,,,unity/ue4,comments
+Geometry,has_code,greater,negligible,,,,,,,unity/ue4,comments
+Publishing apps,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Publishing apps,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+Publishing apps,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Publishing apps,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Publishing apps,has_code,greater,small,0.4050632911392405,0.10636363636363637,-0.2986996547756041,0.0,0.0,0.0,stackoverflow/gamedev_se,questions
+File management,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+File management,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+File management,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+File management,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+File management,has_code,greater,small,0.5586297760210803,0.3835941204362257,-0.17503565558485462,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Viewport,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Viewport,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+Viewport,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Viewport,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Viewport,has_code,greater,small,0.35965243672081604,0.2020253164556962,-0.15762712026511982,0.0,0.0,0.0,stackoverflow/gamedev_se,questions
+Runtime,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Runtime,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+Runtime,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Runtime,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Runtime,has_code,greater,medium,0.6579360921948664,0.3268876611418048,-0.3310484310530616,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Geometry,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Geometry,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Geometry,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Geometry,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Geometry,has_code,greater,small,0.5911439114391144,0.3853820598006645,-0.2057618516384499,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+General programming,n_responses,,,,,,,,,stackoverflow/gamedev_se,questions
+General programming,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+General programming,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+General programming,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+General programming,has_code,greater,medium,0.828968253968254,0.4963325183374083,-0.3326357356308457,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Positioning,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Positioning,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Positioning,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Positioning,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Positioning,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Rendering,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Rendering,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Rendering,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Rendering,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Rendering,has_code,,,,,,,,,stackoverflow/gamedev_se,questions
+Android development,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Android development,len_text,greater,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Android development,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Android development,is_resolved,,,,,,,,,stackoverflow/gamedev_se,questions
+Android development,has_code,greater,small,0.6036960985626283,0.32130584192439865,-0.28239025663822964,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Character animation,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Character animation,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Character animation,is_answered,,,,,,,,,stackoverflow/gamedev_se,questions
+Character animation,is_resolved,,,,,,,,,stackoverflow/gamedev_se,questions
+Character animation,has_code,greater,small,0.5081081081081081,0.32078559738134205,-0.1873225107267661,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Game environments,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game environments,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+Game environments,is_answered,,,,,,,,,stackoverflow/gamedev_se,questions
+Game environments,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game environments,has_code,greater,small,0.5257410296411856,0.37152209492635024,-0.1542189347148354,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Display,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Display,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Display,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Display,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Display,has_code,,,,,,,,,stackoverflow/gamedev_se,questions
+Game objects,n_responses,,,,,,,,,stackoverflow/gamedev_se,questions
+Game objects,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game objects,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game objects,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game objects,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game mechanics,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game mechanics,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game mechanics,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game mechanics,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game mechanics,has_code,greater,medium,0.7599153886832364,0.3716535433070866,-0.3882618453761498,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+GUI,n_responses,,,,,,,,,stackoverflow/gamedev_se,questions
+GUI,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+GUI,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+GUI,is_resolved,,,,,,,,,stackoverflow/gamedev_se,questions
+GUI,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Object Oriented Programming,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Object Oriented Programming,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Object Oriented Programming,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Object Oriented Programming,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Object Oriented Programming,has_code,greater,small,0.7824412783981517,0.46590427784836935,-0.31653700054978234,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Sound/audio,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Sound/audio,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+Sound/audio,is_answered,,,,,,,,,stackoverflow/gamedev_se,questions
+Sound/audio,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Sound/audio,has_code,greater,small,0.652760736196319,0.34276729559748426,-0.30999344059883477,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Game engines,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game engines,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+Game engines,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game engines,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Game engines,has_code,greater,small,0.5555796081827038,0.33699231613611413,-0.21858729204658967,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Camera,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Camera,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Camera,is_answered,,,,,,,,,stackoverflow/gamedev_se,questions
+Camera,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Camera,has_code,,,,,,,,,stackoverflow/gamedev_se,questions
+Collisions,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Collisions,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Collisions,is_answered,,,,,,,,,stackoverflow/gamedev_se,questions
+Collisions,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Collisions,has_code,greater,small,0.6881016557566423,0.484375,-0.20372665575664228,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Movement,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Movement,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Movement,is_answered,,,,,,,,,stackoverflow/gamedev_se,questions
+Movement,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Movement,has_code,greater,small,0.7911158117398202,0.5678842177808407,-0.2232315939589794,1.0,1.0,0.0,stackoverflow/gamedev_se,questions
+Networking,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Networking,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Networking,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Networking,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Networking,has_code,greater,medium,0.5881561238223418,0.23949299533022014,-0.34866312849212167,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+3D modeling,n_responses,,,,,,,,,stackoverflow/gamedev_se,questions
+3D modeling,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+3D modeling,is_answered,,,,,,,,,stackoverflow/gamedev_se,questions
+3D modeling,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+3D modeling,has_code,greater,small,0.40842105263157896,0.20112781954887218,-0.20729323308270678,0.0,0.0,0.0,stackoverflow/gamedev_se,questions
+Event handling,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Event handling,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Event handling,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Event handling,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+Event handling,has_code,greater,small,0.6336760925449871,0.4100817438692098,-0.22359434867577732,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+User accounts,n_responses,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+User accounts,len_text,,,,,,,,,stackoverflow/gamedev_se,questions
+User accounts,is_answered,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+User accounts,is_resolved,less,negligible,,,,,,,stackoverflow/gamedev_se,questions
+User accounts,has_code,greater,medium,0.5608899297423887,0.21628498727735368,-0.34460494246503504,1.0,0.0,-1.0,stackoverflow/gamedev_se,questions
+Viewport,is_accepted,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Viewport,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Viewport,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Android development,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Android development,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Android development,has_code,greater,small,0.45232273838630804,0.23952738990332975,-0.2127953484829783,0.0,0.0,0.0,stackoverflow/gamedev_se,answers
+Object Oriented Programming,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Object Oriented Programming,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Object Oriented Programming,has_code,greater,small,0.596691018478728,0.35977190254017627,-0.2369191159385517,1.0,0.0,-1.0,stackoverflow/gamedev_se,answers
+General programming,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+General programming,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+General programming,has_code,greater,small,0.6930369401765283,0.4291845493562232,-0.2638523908203051,1.0,0.0,-1.0,stackoverflow/gamedev_se,answers
+Collisions,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Collisions,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Collisions,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Geometry,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Geometry,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Geometry,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Game objects,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Game objects,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Game objects,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Display,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Display,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Display,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+3D modeling,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+3D modeling,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+3D modeling,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+User accounts,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+User accounts,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+User accounts,has_code,greater,small,0.3713733075435203,0.10623229461756374,-0.2651410129259566,0.0,0.0,0.0,stackoverflow/gamedev_se,answers
+Game engines,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Game engines,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Game engines,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Camera,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Camera,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Camera,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Game environments,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Game environments,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Game environments,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Publishing apps,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Publishing apps,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Publishing apps,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+File management,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+File management,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+File management,has_code,greater,small,0.42272727272727273,0.26691887347625054,-0.1558083992510222,0.0,0.0,0.0,stackoverflow/gamedev_se,answers
+Networking,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Networking,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Networking,has_code,greater,small,0.34297108673978066,0.13233287858117326,-0.2106382081586074,0.0,0.0,0.0,stackoverflow/gamedev_se,answers
+Sound/audio,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Sound/audio,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Sound/audio,has_code,greater,small,0.40552016985138006,0.18134034165571616,-0.2241798281956639,0.0,0.0,0.0,stackoverflow/gamedev_se,answers
+GUI,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+GUI,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+GUI,has_code,greater,small,0.507361268403171,0.34801136363636365,-0.15934990476680733,1.0,0.0,-1.0,stackoverflow/gamedev_se,answers
+Character animation,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Character animation,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Character animation,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Runtime,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Runtime,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Runtime,has_code,greater,small,0.4410796576695194,0.22686567164179106,-0.21421398602772834,0.0,0.0,0.0,stackoverflow/gamedev_se,answers
+Positioning,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Positioning,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Positioning,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Rendering,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Rendering,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Rendering,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Event handling,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Event handling,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Event handling,has_code,greater,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Movement,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Movement,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Movement,has_code,greater,small,0.5340659340659341,0.30346385542168675,-0.2306020786442473,1.0,0.0,-1.0,stackoverflow/gamedev_se,answers
+Game mechanics,is_accepted,,,,,,,,,stackoverflow/gamedev_se,answers
+Game mechanics,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,answers
+Game mechanics,has_code,greater,small,0.5,0.17246273953158267,-0.32753726046841736,0.5,0.0,-0.5,stackoverflow/gamedev_se,answers
+Object Oriented Programming,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Object Oriented Programming,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+General programming,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+General programming,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+GUI,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+GUI,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Networking,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Networking,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Game engines,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Game engines,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Game environments,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Game environments,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Movement,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Movement,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Positioning,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Positioning,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Game objects,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Game objects,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Geometry,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Geometry,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Rendering,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Rendering,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Android development,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Android development,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+User accounts,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+User accounts,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Viewport,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Viewport,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Event handling,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Event handling,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Sound/audio,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Sound/audio,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Publishing apps,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Publishing apps,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+3D modeling,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+3D modeling,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+File management,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+File management,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Runtime,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Runtime,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Collisions,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Collisions,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Display,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Display,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Camera,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Camera,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Character animation,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Character animation,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
+Game mechanics,len_text,less,negligible,,,,,,,stackoverflow/gamedev_se,comments
+Game mechanics,has_code,,,,,,,,,stackoverflow/gamedev_se,comments
