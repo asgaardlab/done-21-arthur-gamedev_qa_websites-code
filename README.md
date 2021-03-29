@@ -10,7 +10,7 @@ Two of the studied websites are owned by companies (Epic and Unity) and we are n
 
 This is not an issue for Stack Overflow and the Game Development Stack Exchange, since that data is provided by Stack Exchange in the [Stack Exchange Data Dump](https://archive.org/details/stackexchange).
 
-**Survey data:** Unfortunately, our University's ethics board only allows us to share the survey responses in aggregated format, which is done in the paper.
+**Survey data:** Unfortunately, our University's ethics board only allows us to share the survey responses in aggregated format, which is done in the paper. In this repository, we added the list of communities in which we shared the survey ([here](/data/surveyed_communities.csv)).
 
 ## Using this repository
 
