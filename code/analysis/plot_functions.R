@@ -306,5 +306,5 @@ bar_access_frequencies <- function(tibble) {
 }
 
 save <- function(plot, filename, w=2250, h=1500) {
-  plot + ggsave(filename, width=w/300, height=h/300, dpi="print")
+  ggsave(filename, plot=plot, width=w/300, height=h/300, dpi="print")
 }
