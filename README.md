@@ -16,9 +16,9 @@ This is not an issue for Stack Overflow and the Game Development Stack Exchange,
 
 If you are using the datasets provided in this repository, you just need to run the [analysis notebook](/code/analysis/paper_results.ipynb) to obtain the results as shown in the paper.
 
-Otherwise, if you want to run the whole pipeline from the start, follow these steps:
+Otherwise, if you want to run the whole pipeline from scratch, follow these steps:
 
-1. Download the data from Unity Answers and the UE4 AnswerHub from their websites (you can use the URLs provided in our datasets to help). Parse the HTML pages and extract the required information.
+1. Download the data from Unity Answers and the UE4 AnswerHub from their websites (you can use the URLs provided in our datasets). Parse the HTML pages and extract the required information.
 
 2. Download the data from Stack Overflow and the Game Development Stack Exchange from [the Stack Exchange Data Dump](https://archive.org/details/stackexchange). Run the notebooks to process the XML files from the Stack Exchange data dump ([here](/code/process_xml/)). For Stack Overflow, run the [select\_gamedev\_posts.ipynb](/code/process_xml/stackoverflow/select_gamedev_posts.ipynb) first.
 
